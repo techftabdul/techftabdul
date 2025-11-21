@@ -52,7 +52,7 @@ Fetches quotes dynamically using React state and effect hooks.
 
 ### 😂 Meme Generator  
 React project using image APIs + dynamic text overlays.  
-🔗 *[Repository](#)*
+🔗 https://github.com/techftabdul/memePicker/tree/main
 
 ### 📏 Metric Unit Converter  
 Converts between length, volume, and mass — clean UI and precise calculations.  
