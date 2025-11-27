@@ -51,7 +51,7 @@ Fetches quotes dynamically using React state and effect hooks.
 🔗 https://github.com/techftabdul/random-quote-generator
 
 ### 😂 Meme Generator  
-React project using image APIs + dynamic text overlays.  
+Javascript project using image mockup APIs + dynamic text overlays.  
 🔗 https://github.com/techftabdul/memePicker/tree/main
 
 ### 📏 Metric Unit Converter  
@@ -77,7 +77,8 @@ This project was part of my journey to strengthen my core frontend skills, focus
 ## 📫 Connect With Me
 - **GitHub:** https://github.com/techftabdul  
 - **LinkedIn:** https://linkedin.com/in/techftabdul  
-- **X (Twitter):** https://x.com/techftabdul  
+- **X (Twitter):** https://x.com/techftabdul
+- **Personal Website** https://techftabdul.com/
 
 ---
 
