@@ -35,7 +35,7 @@ I love turning ideas into real, interactive web experiences. Currently leveling 
 ### 🍽️ Restaurant Ordering App  
 Full interactive ordering system — menu rendering, cart state, removal logic, payment modal, and confirmation UI.  
 **Tech:** HTML, CSS, JavaScript  
-🔗 *[Live Demo](#)*  
+🔗 *[Live Demo](https://deliciousbitesfoodorder.netlify.app/)*  
 🔗 https://github.com/techftabdul/foodOrderApp
 
 ---
