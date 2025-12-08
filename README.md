@@ -16,7 +16,7 @@ I love turning ideas into real, interactive web experiences. Currently leveling 
 
 ## 🛠️ Tech Stack
 **Languages:**  
-- JavaScript (ES6+), HTML5, CSS3  
+- React, JavaScript (ES6+), HTML5, CSS3, Wordpress 
 
 **Tools:**  
 - Git & GitHub  
@@ -24,8 +24,9 @@ I love turning ideas into real, interactive web experiences. Currently leveling 
 - Chrome DevTools  
 
 **Learning / Using:**  
-- React  
-- Node.js basics  
+- Databases  
+- Node.js
+- TypeScript
 - Responsive UI/UX patterns  
 
 ---
