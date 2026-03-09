@@ -108,6 +108,5 @@ LinkedIn: https://linkedin.com/in/techftabdul
 
 X (Twitter): https://x.com/techftabdul
 
-Personal Website: https://techftabdul.com/
 
 ⭐ If you like what I build, feel free to star my repos and reach out for collaborations!
